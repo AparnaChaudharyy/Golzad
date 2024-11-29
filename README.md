@@ -1,4 +1,4 @@
-# <image src="assets/file_edited.png" width=35 height = 30>  Golzad Cloud Storage Service
+# <image src="assets/file_edited.png" width=35 height = 28>  Golzad Cloud Storage Service
 Welcome to Golzad, your reliable cloud storage solution. Golzad provides secure, scalable, and easy-to-use cloud storage for individuals and businesses.
 
 ## Features
