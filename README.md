@@ -14,29 +14,29 @@ Welcome to Golzad, your reliable cloud storage solution. Golzad provides secure,
 ## Installation
 
 ```bash
-git clone https://github.com/DeepeshKalura/gulzod
+git clone https://github.com/AparnaChaudharyy/Golzad.git
 ```
 
 ```bash
-cd gulzad
+cd golzad
 pip install -r requirements.txt
 ```
 
 ## Usage
 
 ```bash
-cd gulzad
+cd golzad
 fastapi dev
 ```
 
 
 ## License
 
-Gulzad is licensed under the [MIT License](LICENSE).
+Golzad is licensed under the [MIT License](LICENSE).
 
 
 
-Thank you for choosing Gulzad!
+Thank you for choosing Golzad!
 
 
 
